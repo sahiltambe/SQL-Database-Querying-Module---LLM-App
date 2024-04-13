@@ -19,10 +19,11 @@ The LLM (Language Learning Management) App - Google Gemini Pro is an advanced la
 
 
 ## Installation and Setup
-- Clone the repository to your local machine.
-- Install Python and ensure all dependencies are met.
-- Set up Google Gemini Pro credentials and configure database connections.
-- Run the Streamlit application to start the LLM App - Google Gemini Pro: SQL Database Querying Module.
+1. Clone the repository to your local machine.
+2. Install Python and ensure all dependencies are met.
+3. Set up Google Gemini Pro credentials and configure database connections.
+4. Run the Streamlit application to start the LLM App - Google Gemini Pro: SQL Database Querying Module.
+
 
 ## Usage
 - Launch the LLM App and navigate to the SQL Database Querying Module.
@@ -37,27 +38,15 @@ The LLM (Language Learning Management) App - Google Gemini Pro is an advanced la
 - Quality Assurance : Sahil Tambe
 
 ## License
-
-Copyright [2024] [Sahil Tambe]
+Copyright <a @2024 Sahil Tambe >
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+furnished to do so.
 
 
 ## Support and Feedback
-For support or inquiries, please contact [sahiltambe1996@gmail.com]. We welcome feedback and suggestions for improving the LLM App - Google Gemini Pro: SQL Database Querying Module. Thank you for your interest and contribution to our project!
+For support or inquiries, please contact <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com" target="_blank">. We welcome feedback and suggestions for improving the LLM App - Google Gemini Pro: SQL Database Querying Module. Thank you for your interest and contribution to our project!
