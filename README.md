@@ -38,7 +38,7 @@ The LLM (Language Learning Management) App - Google Gemini Pro is an advanced la
 - Quality Assurance : Sahil Tambe
 
 ## License
-Copyright <a @2024 Sahil Tambe >
+Copyright <a> @2024 Sahil Tambe </a>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -49,4 +49,4 @@ furnished to do so.
 
 
 ## Support and Feedback
-For support or inquiries, please contact <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com" target="_blank">. We welcome feedback and suggestions for improving the LLM App - Google Gemini Pro: SQL Database Querying Module. Thank you for your interest and contribution to our project!
+For support or inquiries, please contact <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com" target="_blank">sahiltambe1996@gmail.com</a>. We welcome feedback and suggestions for improving the LLM App - Google Gemini Pro: SQL Database Querying Module. Thank you for your interest and contribution to our project!
